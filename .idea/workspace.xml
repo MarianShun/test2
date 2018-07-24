@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c887880-b724-494d-9eca-344ccbcd0733" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_answer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/candidates.py" beforeDir="false" afterPath="$PROJECT_DIR$/candidates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_candidates.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_candidates.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test_candidates.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test_candidates.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_candidates.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="54" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="54" />
+            <state relative-caret-position="180">
+              <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -26,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="candidates.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="candidates.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/candidates.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="28" selection-start-line="2" selection-end-line="3" />
+            <state relative-caret-position="119">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="27" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -47,16 +50,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test_answer.py" />
-        <option value="$PROJECT_DIR$/test_candidates.py" />
         <option value="$PROJECT_DIR$/candidates.py" />
+        <option value="$PROJECT_DIR$/test_candidates.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="10" />
-    <option name="y" value="20" />
+    <option name="y" value="7" />
     <option name="width" value="1346" />
-    <option name="height" value="698" />
+    <option name="height" value="711" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -93,8 +96,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test_candidates.TestsGetList">
-    <configuration name="py.test for test_answer.TestClassCandidates" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.py.test for test_candidates.TestCandidatesAPI.test_candidate_status_code_get">
+    <configuration name="py.test for test_candidates.TestCandidatesAPI" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="py1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,10 +108,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_answer.TestClassCandidates&quot;" />
+      <option name="_new_target" value="&quot;test_candidates.TestCandidatesAPI&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_answer.TestClassCandidates.test_post_candidate" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_candidates.TestCandidatesAPI.test_candidate_status_code_get" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="py1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,10 +122,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_answer.TestClassCandidates.test_post_candidate&quot;" />
+      <option name="_new_target" value="&quot;test_candidates.TestCandidatesAPI.test_candidate_status_code_get&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_answer.test_get_all_candidates" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_candidates.TestCandidatesAPI.test_create_candidate_status_code" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="py1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,10 +136,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_answer.test_get_all_candidates&quot;" />
+      <option name="_new_target" value="&quot;test_candidates.TestCandidatesAPI.test_create_candidate_status_code&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_candidates.TestsGetList" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_candidates.TestCandidatesAPI.test_get_candidate_by_id" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="py1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,10 +150,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_candidates.TestsGetList&quot;" />
+      <option name="_new_target" value="&quot;test_candidates.TestCandidatesAPI.test_get_candidate_by_id&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="py.test for test_candidates.TestsGetList.test_get_candidate_status_code_list" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test for test_candidates.TestCandidatesAPI.test_get_candidate_json_list" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="py1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,23 +164,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_candidates.TestsGetList.test_get_candidate_status_code_list&quot;" />
+      <option name="_new_target" value="&quot;test_candidates.TestCandidatesAPI.test_get_candidate_json_list&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.py.test for test_answer.test_get_all_candidates" />
-      <item itemvalue="Python tests.py.test for test_answer.TestClassCandidates" />
-      <item itemvalue="Python tests.py.test for test_answer.TestClassCandidates.test_post_candidate" />
-      <item itemvalue="Python tests.py.test for test_candidates.TestsGetList" />
-      <item itemvalue="Python tests.py.test for test_candidates.TestsGetList.test_get_candidate_status_code_list" />
+      <item itemvalue="Python tests.py.test for test_candidates.TestCandidatesAPI.test_get_candidate_by_id" />
+      <item itemvalue="Python tests.py.test for test_candidates.TestCandidatesAPI.test_get_candidate_json_list" />
+      <item itemvalue="Python tests.py.test for test_candidates.TestCandidatesAPI" />
+      <item itemvalue="Python tests.py.test for test_candidates.TestCandidatesAPI.test_create_candidate_status_code" />
+      <item itemvalue="Python tests.py.test for test_candidates.TestCandidatesAPI.test_candidate_status_code_get" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.py.test for test_candidates.TestsGetList" />
-        <item itemvalue="Python tests.py.test for test_candidates.TestsGetList.test_get_candidate_status_code_list" />
-        <item itemvalue="Python tests.py.test for test_answer.TestClassCandidates.test_post_candidate" />
-        <item itemvalue="Python tests.py.test for test_answer.TestClassCandidates" />
-        <item itemvalue="Python tests.py.test for test_answer.test_get_all_candidates" />
+        <item itemvalue="Python tests.py.test for test_candidates.TestCandidatesAPI.test_candidate_status_code_get" />
+        <item itemvalue="Python tests.py.test for test_candidates.TestCandidatesAPI.test_create_candidate_status_code" />
+        <item itemvalue="Python tests.py.test for test_candidates.TestCandidatesAPI.test_get_candidate_by_id" />
+        <item itemvalue="Python tests.py.test for test_candidates.TestCandidatesAPI.test_get_candidate_json_list" />
+        <item itemvalue="Python tests.py.test for test_candidates.TestCandidatesAPI" />
       </list>
     </recent_temporary>
   </component>
@@ -195,39 +198,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test_answer_test_get_all_candidates - 2018.07.24 at 19h 45m 13s.xml">
-      <configuration name="py.test for test_answer.test_get_all_candidates" configurationId="tests" />
+    <history-entry file="py_test_for_test_candidates_TestCandidatesAPI_test_get_candidate_by_id - 2018.07.24 at 21h 03m 18s.xml">
+      <configuration name="py.test for test_candidates.TestCandidatesAPI.test_get_candidate_by_id" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_answer_TestClassCandidates - 2018.07.24 at 19h 59m 17s.xml">
-      <configuration name="py.test for test_answer.TestClassCandidates" configurationId="tests" />
+    <history-entry file="py_test_for_test_candidates_TestCandidatesAPI_test_get_candidate_by_id - 2018.07.24 at 21h 03m 42s.xml">
+      <configuration name="py.test for test_candidates.TestCandidatesAPI.test_get_candidate_by_id" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_answer_TestClassCandidates_test_post_candidate - 2018.07.24 at 20h 02m 40s.xml">
-      <configuration name="py.test for test_answer.TestClassCandidates.test_post_candidate" configurationId="tests" />
+    <history-entry file="py_test_for_test_candidates_TestCandidatesAPI_test_create_candidate_status_code - 2018.07.24 at 21h 05m 49s.xml">
+      <configuration name="py.test for test_candidates.TestCandidatesAPI.test_create_candidate_status_code" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_answer_TestClassCandidates_test_post_candidate - 2018.07.24 at 20h 03m 53s.xml">
-      <configuration name="py.test for test_answer.TestClassCandidates.test_post_candidate" configurationId="tests" />
+    <history-entry file="py_test_for_test_candidates_TestCandidatesAPI_test_create_candidate_status_code - 2018.07.24 at 21h 06m 08s.xml">
+      <configuration name="py.test for test_candidates.TestCandidatesAPI.test_create_candidate_status_code" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_answer_TestClassCandidates_test_post_candidate - 2018.07.24 at 20h 13m 17s.xml">
-      <configuration name="py.test for test_answer.TestClassCandidates.test_post_candidate" configurationId="tests" />
+    <history-entry file="py_test_for_test_candidates_TestCandidatesAPI_test_create_candidate_status_code - 2018.07.24 at 21h 06m 34s.xml">
+      <configuration name="py.test for test_candidates.TestCandidatesAPI.test_create_candidate_status_code" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_answer_TestClassCandidates_test_post_candidate - 2018.07.24 at 20h 20m 39s.xml">
-      <configuration name="py.test for test_answer.TestClassCandidates.test_post_candidate" configurationId="tests" />
+    <history-entry file="py_test_for_test_candidates_TestCandidatesAPI_test_create_candidate_status_code - 2018.07.24 at 21h 07m 28s.xml">
+      <configuration name="py.test for test_candidates.TestCandidatesAPI.test_create_candidate_status_code" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_candidates_TestsGetList - 2018.07.24 at 20h 30m 56s.xml">
-      <configuration name="py.test for test_candidates.TestsGetList" configurationId="tests" />
+    <history-entry file="py_test_for_test_candidates_TestCandidatesAPI_test_create_candidate_status_code - 2018.07.24 at 21h 09m 33s.xml">
+      <configuration name="py.test for test_candidates.TestCandidatesAPI.test_create_candidate_status_code" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_candidates_TestsGetList - 2018.07.24 at 20h 31m 49s.xml">
-      <configuration name="py.test for test_candidates.TestsGetList" configurationId="tests" />
+    <history-entry file="py_test_for_test_candidates_TestCandidatesAPI_test_create_candidate_status_code - 2018.07.24 at 21h 09m 57s.xml">
+      <configuration name="py.test for test_candidates.TestCandidatesAPI.test_create_candidate_status_code" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_candidates_TestsGetList_test_get_candidate_status_code_list - 2018.07.24 at 20h 33m 00s.xml">
-      <configuration name="py.test for test_candidates.TestsGetList.test_get_candidate_status_code_list" configurationId="tests" />
+    <history-entry file="py_test_for_test_candidates_TestCandidatesAPI_test_candidate_status_code_get - 2018.07.24 at 21h 11m 23s.xml">
+      <configuration name="py.test for test_candidates.TestCandidatesAPI.test_candidate_status_code_get" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_candidates_TestsGetList - 2018.07.24 at 20h 34m 26s.xml">
-      <configuration name="py.test for test_candidates.TestsGetList" configurationId="tests" />
+    <history-entry file="py_test_for_test_candidates_TestCandidatesAPI_test_candidate_status_code_get - 2018.07.24 at 21h 13m 15s.xml">
+      <configuration name="py.test for test_candidates.TestCandidatesAPI.test_candidate_status_code_get" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="698" extended-state="0" />
+    <frame x="10" y="7" width="1346" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24962406" />
@@ -238,7 +241,7 @@
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39137647" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -254,22 +257,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_candidates.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_candidates.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="27" />
+      <option name="time" value="34" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -277,13 +268,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="667" selection-start-line="667" selection-end-line="667" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Python36-32/Lib/site-packages/pluggy/callers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="179" selection-start-line="179" selection-end-line="179" />
         </state>
       </provider>
     </entry>
@@ -304,29 +288,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python/Python36-32/Lib/site-packages/_pytest/python.py">
+    <entry file="file://C:/Python/Python36-32/Lib/site-packages/pluggy/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="195" selection-start-line="195" selection-end-line="195" />
+        <state relative-caret-position="101">
+          <caret line="616" selection-start-line="616" selection-end-line="616" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_candidates.py">
+    <entry file="file://C:/Python/Python36-32/Lib/site-packages/_pytest/runner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="54" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Python36-32/Lib/site-packages/pluggy/callers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="183" selection-start-line="183" selection-end-line="183" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Python36-32/Lib/site-packages/_pytest/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/candidates.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-end-line="3" />
+        <state relative-caret-position="119">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="27" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_candidates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,3 +1,3 @@
 [
-  "test_candidates.py::TestsGetList::()::test_get_candidate_status_code_list"
+  "test_candidates.py::TestCandidatesAPI::()::test_candidate_status_code_get"
 ]
