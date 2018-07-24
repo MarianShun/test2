@@ -11,4 +11,4 @@ class TestCandidatesAPI:
         new = CandidatesAPI().create_candidate(name, position)
         assert new.status_code == 201  # preconditions
         id = new.json()['candidate']['id']
-        assert CandidatesAPI().get_candidate_by_id().status_code == 200
+        assert CandidatesAPI().get_candidate_by_id(id).status_code == 200

@@ -1,7 +1,0 @@
-{
-  "test_answer.py::TestClassCandidates::()::test_post_candidate": true,
-  "test_candidates.py": true,
-  "test_candidates.py::TestCandidatesAPI::()::test_candidate_status_code_get": true,
-  "test_candidates.py::TestCandidatesAPI::()::test_create_candidate_status_code": true,
-  "test_candidates.py::TestCandidatesAPI::()::test_get_candidate_by_id": true
-}
