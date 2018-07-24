@@ -1,3 +1,3 @@
 [
-  "test_answer.py::test_answer"
+  "test_candidates.py::TestsGetList::()::test_get_candidate_status_code_list"
 ]
